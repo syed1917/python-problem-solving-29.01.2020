@@ -18,9 +18,9 @@ elif(a==4):
 else:
     print("error")
     
-    
-   "'
-   1:Odd
+'''    
+enter your choice:   
+1:Odd
 2:Even
 3:Div by 3
 4:Div by 5
@@ -120,7 +120,7 @@ enter your choice:
 35
 40
 45  
-   "'
+'''
    
    
   
